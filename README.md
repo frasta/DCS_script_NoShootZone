@@ -7,7 +7,7 @@ Script to give a sanction to a player shooting in a forbidden zone.
 - Place zones (circle and/or rectangle) where you want the shots to be forbidden
 ![ExampleZones](ZoneExample.JPG)
 - In the DCS-NoShootOrKickGameGUI.lua file, add all the zone names in the zone_names list : local zone_names = {'zone1','zone2','zone3','zone4'} -- Put how much you want, can be separate airfields
-- Load the script
+- Load the script as you did to load the Mist script
 - Host your mission and enjoy 😏
 
 <ins>What I ask in exchange?</ins>
